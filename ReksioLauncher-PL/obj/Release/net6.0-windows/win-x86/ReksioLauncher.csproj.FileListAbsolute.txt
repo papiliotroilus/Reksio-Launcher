@@ -1,0 +1,16 @@
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\net6.0-windows\win-x86\ReksioLauncher.exe
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\net6.0-windows\win-x86\ReksioLauncher.deps.json
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\net6.0-windows\win-x86\ReksioLauncher.runtimeconfig.json
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\net6.0-windows\win-x86\ReksioLauncher.dll
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\net6.0-windows\win-x86\ReksioLauncher.pdb
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.Form1.resources
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.csproj.GenerateResource.cache
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.AssemblyInfoInputs.cache
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.AssemblyInfo.cs
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.dll
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\refint\ReksioLauncher.dll
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.pdb
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ReksioLauncher.genruntimeconfig.cache
+C:\Users\Serena\source\repos\ReksioLauncher\obj\Release\net6.0-windows\win-x86\ref\ReksioLauncher.dll

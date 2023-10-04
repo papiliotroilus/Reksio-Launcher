@@ -1,0 +1,2 @@
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\ReksioLauncher.pdb
+C:\Users\Serena\source\repos\ReksioLauncher\bin\Release\ReksioLauncher.exe
